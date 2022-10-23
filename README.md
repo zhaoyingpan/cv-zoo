@@ -1,3 +1,3 @@
 # cv-zoo
 
-This repo records my coding on several classic cv algorithms from my relevant courses. All codes are rearranged by myself to avoid it becoming a source of answers to homeworks. This repo aims to record my own codes for future reference, and also inspire future cv learners. If you find this repo helpful, please leave me a star!
+This repo records my implementation during several courses. The topics include KNN, linear classifier, two-layer neural network, fully-connected network, convolution network, one-stage object detector (FCOS), two-stage object detector (RPN), image captioning models (RNN, LSTM, LSTM with attention), transformer, generative adversarial networks, variational autoencoder, style transfer.
